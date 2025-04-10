@@ -1,7 +1,7 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on building a personal webapp
-- 🌱 I’m currently learning data structures
+Welcome to my GH I am a self thaught Full Stack developer, I mainly work in javascript but I also enjoy doing stuff in pyhton once on a blue moon. 
+- 🔭 I’m currently working on building a personal webapp for [Aisling Walsh](aislingwalsh.com)
+- 🌱 I’m currently learning [data structures in Udemy](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: here or through my linkedin XD [Marcela Obeso](https://www.linkedin.com/in/marcela-obeso/)
 
