@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building a personal webapp
+- 🌱 I’m currently learning data structures
+- 👯 I’m looking to collaborate on open source projects
+- 📫 How to reach me: here or through my linkedin XD [Marcela Obeso](https://www.linkedin.com/in/marcela-obeso/)
+
 <!--
 **marcelaobeso/marcelaobeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
