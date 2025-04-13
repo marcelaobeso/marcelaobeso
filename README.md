@@ -4,6 +4,7 @@ Welcome to my GH I am a self thaught Full Stack developer, I mainly work in java
 - 🌱 I’m currently learning [data structures in Udemy](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: here or through my linkedin XD [Marcela Obeso](https://www.linkedin.com/in/marcela-obeso/)
+- 🤖 I have joined [MLH Global Hack Week](https://ghw.mlh.io/events/api-week) 
 
 <!--
 **marcelaobeso/marcelaobeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
