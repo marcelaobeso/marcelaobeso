@@ -13,9 +13,7 @@ Welcome to my GH I am a self thaught Full Stack developer, I mainly work in java
   <img alt="Express" src="https://img.shields.io/badge/-express-green?style=for-the-badge&labelColor=339933">
 
   <img alt="React" src="https://img.shields.io/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white&labelColor=218AAB">
-  <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   
   <img alt="Python" src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
