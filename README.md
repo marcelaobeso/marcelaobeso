@@ -44,7 +44,7 @@ Welcome to my GH I am a self thaught Full Stack developer, I mainly work in java
 </div>
 <br/>
 <p align="left">
-  <a href="https://marcelaobeso.com">
+  <a href="https://marcela.duckdns.org/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=marcelaobeso&show_icons=true&include_all_commits=true&theme=merko&rank_icon=github">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelaobeso&theme=merko">   
   </a>
