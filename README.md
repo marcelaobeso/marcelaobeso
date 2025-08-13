@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GH I am a self thaught Full Stack developer, I mainly work in javascript but I also enjoy doing stuff in pyhton once on a blue moon. 
+Welcome to my GH I am a self thaught Full Stack developer, I mainly work in javascript but I've been also doing lots of things in bash and python lately. 
 - <img src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.svg?_gl=1*v2rzf9*_ga*MTE3Mjk5Mzg5Mi4xNzQ0NTYyOTc4*_ga_E5KT6TC4TK*czE3NTAzNzQxNzQkbzM0JGcxJHQxNzUwMzc0MjI2JGo4JGwwJGgw" width=3% height=3%> Fellowship, I'm currently part of the Production Engineering Fellowship with Meta.
 - 👯 I’m looking to collaborate on open source projects
 - - 🔭 I’m working on building a personal webapp for [Aisling Walsh](aislingwalsh.com) with contentful as a CMS that way the client will be able to update it whenever they need. 
